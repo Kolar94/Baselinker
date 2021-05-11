@@ -3,7 +3,7 @@
 
 ## example of use:
 
-```
+```php
 $api = new Baselinker\Baselinker($token);
 
 $params = [
