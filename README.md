@@ -1,7 +1,7 @@
-#A simple PHP Class for use with a BaseLinker API
+# A simple PHP Class for use with a BaseLinker API
 
 
-##example of use:
+## example of use:
 
 ```
 $api = new Baselinker\Baselinker($token);
